@@ -1,68 +1,42 @@
-.animalcardbody{
-  margin:0px;
+.animal-card-body {
+  margin: 0;
   width: 340px;
-
-
 }
-
-.animalcard{
-border:1px;
-border-color:#f2f2f2;
-border-style:solid;
+.animal-card {
+border: 1px;
+border-color: #e6e6e6;
+border-style: solid;
 box-shadow: 10px 10px 0px -2px rgba(242,242,242,1);
-padding:10px;
-margin:10px;
-
-
-
+padding: 10px;
+margin: 10px;
 }
-.animalname{
-padding:10px;
-margin:0px;
-padding-left:0px;
-
-
-
+.animal-name {
+padding: 10px;
+margin: 0;
+padding-left: 0;
 }
-
-.interestingfacts{
-
-font-style:italic;
+.interesting-facts {
+font-style: italic;
 }
-
-.titlefactslist{
-
-list-style-type:none;
-
-padding-left:0px;
-
-
+.title-facts-list {
+list-style-type: none;
+padding-left: 0;
 }
-
-
-.titlefact{
-
-font-weight:bold;
+.title-fact {
+font-weight: bold;
 }
-
-
-.animalpicture{
-width:300px;
-height:200px;
-padding:10px;
-padding-left:0px;
-
-margin:0px;
-
-
-
-
+.animal-picture {
+width: 300px;
+height: 200px;
+padding: 10px;
+padding-left: 0;
+margin: 0;
 }
-.animalinformation{
-border:1px;
-border-color:#f2f2f2;
-border-style:solid;
-padding:10px;
-width:300px;
-box-sizing:border-box;
+.animal-information {
+border: 1px;
+border-color: #e6e6e6;
+border-style: solid;
+padding: 10px;
+width: 300px;
+box-sizing: border-box;
 }
